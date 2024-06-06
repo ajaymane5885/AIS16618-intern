@@ -2,16 +2,16 @@
 #Day 1:
 
 1.Variable Declaration Rule:
-i)variable name must be shart with letter or (__)underscore character 
-ii)A variable name cannot start with number 
-iii)Only contain alphanumeric characters and underscore ex.(A_z,a-z,0-9,:"-") 
-iv)variable name are case sensitive
+i) Variable name must be shart with letter or (__)underscore character 
+ii) A variable name cannot start with number 
+iii) Only contain alphanumeric characters and underscore ex.(A_z,a-z,0-9,:"-") 
+iv) Variable name are case sensitive
 
 2.Operators: 
-i)Arithmatic operators(+,-,*,/,**,%)
-ii)Assingment operators(+=,-=,*=,/=)
-iii)Comparision operators(>,<,==,!=,<=,>=)
-iv)Logical operators(and,or,not)
+i) Arithmatic operators(+,-,*,/,**,%)
+ii) Assingment operators(+=,-=,*=,/=)
+iii) Comparision operators(>,<,==,!=,<=,>=)
+iv) Logical operators(and,or,not)
 
 3.List: List creation,append,insert,pop,copy,sort,len,etc.
 
