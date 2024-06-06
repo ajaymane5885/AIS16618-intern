@@ -1,6 +1,6 @@
 # AIS16618-intern
 #Day 1:
-1.Variable Declaration Rule:
+#1.Variable Declaration Rule:
 variable name must be shart with letter or (__)underscore character 
 A variable name cannot start with number 
 Only contain alphanumeric characters and underscore ex.(A_z,a-z,0-9,:"-") 
