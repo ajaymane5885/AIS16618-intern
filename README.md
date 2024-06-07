@@ -89,3 +89,5 @@ Perfect Square: A function that determines whether a given number is a perfect s
 
 Century Year: A function that checks whether a given year is a century year (ending with '00'). It returns True if the year is a century year and False otherwise.
 
+#Day 4:
+
