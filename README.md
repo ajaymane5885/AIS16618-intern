@@ -91,3 +91,25 @@ Century Year: A function that checks whether a given year is a century year (end
 
 #Day 4:
 
+#Numpy Library: NumPy provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays efficiently.
+
+Key Features:
+
+Arrays: NumPy arrays are a powerful data structure for holding and manipulating large arrays of numerical data. They are much more efficient than Python lists for numerical operations.
+
+Mathematical Functions: NumPy provides a wide range of mathematical functions that operate element-wise on arrays, such as trigonometric functions, exponential and logarithmic functions, etc.
+
+Broadcasting: NumPy's broadcasting allows arithmetic operations to be performed on arrays of different shapes, which can greatly simplify code.
+
+Linear Algebra: NumPy provides functions for linear algebra operations, such as matrix multiplication, inversion, eigenvalues, etc.
+
+Random Number Generation: NumPy includes functions for generating random numbers with various distributions.
+
+#Notebooks:
+
+1.Numpy Basic: Intro, Getting Started, Creating Arrays, Array Indexing, Array Slicing, Data Types, Copy vs View, Array Shape, Array Reshape, Array Iterating, Array Join, Array Split, Array Search, Array Sort, Array Filter.
+
+2.NumPy Random: Intro, Data Distribution, Random Permutation, Seaborn Module, Normal Distribution, Binomial Distribution, Poisson Distribution, Uniform Distribution, Logistic Distribution, Multinomial Distribution, Exponential Distribution, Chi Square Distribution, Rayleigh Distribution, Pareto Distribution, Zipf Distribution.
+
+3.NumPy ufunc: Intro, Create Function, Simple Arithmetic, Rounding Decimals, Logs, Summations, Products, Differences, Finding LCM, Finding GCD, Trigonometric, Hyperbolic, Set Operations.
+
