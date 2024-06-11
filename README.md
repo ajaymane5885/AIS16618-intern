@@ -113,3 +113,20 @@ Random Number Generation: NumPy includes functions for generating random numbers
 
 3.NumPy ufunc: Intro, Create Function, Simple Arithmetic, Rounding Decimals, Logs, Summations, Products, Differences, Finding LCM, Finding GCD, Trigonometric, Hyperbolic, Set Operations.
 
+#Day 5:
+
+#Pandas Library: Pandas is a Python library used for working with data sets. It has functions for analyzing, cleaning, exploring, and manipulating data.
+
+1.Serirs: We create a Series from a list and dictionary, We create a Series with a custom index and scalar value. These are some basic ways of creating a Series in Pandas. Once you have created a Series, you can perform various operations like Indexing and Slicing, Arithmetic Operations, Element-wise Operations, Boolean Operations,etc.
+
+2.DataFrame: To create a simple Pandas DataFrame. #For CSV files, you can use pd.read_csv('file.csv'). CSV (Comma Separated Values) files are plain text files where each line represents a row of data, and values within each row are separated by commas or other delimiters. #For Excel files, you can use pd.read_excel('file.xlsx'). Excel files are binary files that can contain multiple sheets, each with rows and columns of data. Both functions automatically infer the data format, but you can specify additional parameters to customize the import process, such as specifying column names, skipping rows, or selecting specific sheets in Excel files. #Dataframe create using matrix,such as from lists,from numpy array,with Custom Column Names,with custom index,with Mixed Data Types. #To create dataframe using dictionary such as from Dictionary of Lists,from Dictionary of NumPy Arrays,with Custom Index,with Selected Columns,from Nested Dictionary.
+
+3.DataFrame Operation: value_counts() Counting the occurrences of unique values in a column, apply() Applying a function along the axis of the DataFrame, unique() Getting unique values in a column, nunique() Counting the number of unique values in a column, describe() Generating descriptive statistics of the DataFrame, Finding the Index of Maximum Values with idxmax().
+
+4.Selection: #DataFrame col,row selection using loc and iloc. #Conditional Selection with Boolean Indexing and query(). #Adding, Deleting, and Updating Columns. #Setting Index and Removing Index. #Operation(+,-,*,|)between two columns.
+
+5.Missing Value: #Missing value checking using isnull() and isna(). #Missing value dropping by row and by col. #Missing value fill(mean,median).
+
+
+
+
