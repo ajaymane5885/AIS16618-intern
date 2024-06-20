@@ -131,7 +131,25 @@ Random Number Generation: NumPy includes functions for generating random numbers
 
 1.Matplotlib Library: Matplotlib is a low level graph plotting library in python that serves as a visualization utility.
 
-#Import Matplotlib, Plotting, Markers, 
+#Import Matplotlib, Plotting, Markers, Linestyle, Labels and Title, Adding Grid Lines, Subplots, Scatter, Bars, Histogram, Pie Charts.
+
+2.Seaborn Library: Seaborn is a library that uses Matplotlib underneath to plot graphs. It will be used to visualize random distributions.
+
+#Import Seaborn, Plotting a Distplot, Releational plots(Scatter Plot, Line Plot, Joint plot), Categorical plots(Bar Plot, Box Plot, Count Plot), Distribution Plots(Histogram, KDE Plot, Rug Plot), Regression plots(Linear regression plot, Residual Plot), Matrix Plots(Correlation matrix(Heatmap), Clustermap), Multi-plot Grids(FaceGrid, PairGrid, JointGrid, Violin plot).
+ 
+#Day 7:
+
+1. Numpy Exercise
+
+2. Ecommerce Purchases Exercise
+
+3. SF Salaries Exercise
+
+#Day 8: Case Study: 1
+
+
+
+
 
 
 
