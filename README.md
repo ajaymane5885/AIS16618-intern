@@ -127,6 +127,14 @@ Random Number Generation: NumPy includes functions for generating random numbers
 
 5.Missing Value: #Missing value checking using isnull() and isna(). #Missing value dropping by row and by col. #Missing value fill(mean,median).
 
+#Day 6:
+
+1.Matplotlib Library: Matplotlib is a low level graph plotting library in python that serves as a visualization utility.
+
+#Import Matplotlib, Plotting, Markers, 
+
+
+
 
 
 
